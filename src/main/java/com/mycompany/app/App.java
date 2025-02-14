@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Hello world!
+ * Hello world sourya!!
  */
 public class App {
 
@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println(MESSAGES);
+        System.out.println(MESSAGE);
     }
 
     public String getMessage() {
